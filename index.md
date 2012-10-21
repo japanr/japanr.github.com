@@ -1,46 +1,43 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Japan.R 2012
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Japan.R 2012 を2012年12月1日（土）に開催します。
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+今年は午前の部と午後の部に分けて開催します。午前の部で R 初心者向けのワークショップ、午後の部ではセミナーと LT 大会です。
 
-## Update Author Attributes
+## Japan.R とは
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+日本各地で統計処理ソフトウェアであるRに関する勉強会が行われています。
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* Tokyo.R
+* Tsukuba.R
+* Nagoya.R
+* Osaka.R
+* Shiga.R
+* Hirosima.R
+* 沖縄 R 同好会(Okinawa.R)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントがJapan.Rです。
 
-    $ rm -rf _posts/core-samples
+## 開催概要
 
-Here's a sample "posts list".
+### 日時
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+2012年12月1日（土）
 
-## To-Do
+### 会場
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+統計数理研立川キャンパス セミナー室 2 (D304)
 
+### プログラム
 
+* 10:00～12:30　初心者講習（発表者：調整中）
+* 12:30～14:00　休憩
+* 14:00～14:30　発表1（発表者：@yokkuns）
+* 14:30～15:00　発表2（発表者：@doradora09）
+* 15:00～15:30　発表3（発表者：調整中）
+* 15:30～16:00　休憩
+* 16:00～17:30　LT大会
