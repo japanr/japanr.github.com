@@ -1,43 +1,33 @@
 ---
 layout: page
-title: Japan.R 2012
+title: Japan.R
 ---
 {% include JB/setup %}
 
-Japan.R 2012 を2012年12月1日（土）に開催します。
-
-今年は午前の部と午後の部に分けて開催します。午前の部で R 初心者向けのワークショップ、午後の部ではセミナーと LT 大会です。
-
 ## Japan.R とは
+日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。
 
-日本各地で統計処理ソフトウェアであるRに関する勉強会が行われています。
-
-* Tokyo.R
-* Tsukuba.R
-* Nagoya.R
-* Osaka.R
-* Shiga.R
-* Hirosima.R
-* 沖縄 R 同好会(Okinawa.R)
+* [Tokyo.R](http://groups.google.co.jp/group/r-study-tokyo)
+* [Tsukuba.R](http://wiki.livedoor.jp/syou6162/)
+* [Nagoya.R](http://corpus-study.info/nagoyar/)
+* [Osaka.R](https://sites.google.com/site/osakarwiki/)
+* [Shiga.R](http://atnd.org/events/5939)
+* [Hirosima.R](http://atnd.org/events/16115)
+* [沖縄R同好会(Okinawa.R)](http://www.facebook.com/okinawa.r)
 
 これらの勉強会の主催者や参加者が年に一度集まって開催されるイベントがJapan.Rです。
 
-## 開催概要
+### 現在予定しているイベント
 
-### 日時
+* [第3回Japan.R](./pages/2012)　2012年12月1日（土）開催
 
-2012年12月1日（土）
+### 過去に開催したイベント
 
-### 会場
-
-統計数理研立川キャンパス セミナー室 2 (D304)
-
-### プログラム
-
-* 10:00～12:30　初心者講習（発表者：調整中）
-* 12:30～14:00　休憩
-* 14:00～14:30　発表1（発表者：@yokkuns）
-* 14:30～15:00　発表2（発表者：@doradora09）
-* 15:00～15:30　発表3（発表者：調整中）
-* 15:30～16:00　休憩
-* 16:00～17:30　LT大会
+* 第2回Japan.R　2011年11月26日（土）開催
+    * [午前の部: はじめての「R」](http://atnd.org/events/22043)
+    * [午後の部: ブースセッション、LT大会](http://atnd.org/events/22044)
+    * [懇親会](http://atnd.org/events/22046)
+* 第1回Japan.R　2010年11月27日（土）開催
+    * [午前の部: はじめての「R」](http://atnd.org/events/9223)
+    * [午後の部](http://atnd.org/events/9806)
+    * [懇親会](http://atnd.org/events/10042)
