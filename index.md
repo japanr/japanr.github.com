@@ -31,3 +31,11 @@ title: Japan.R
     * [午前の部: はじめての「R」](http://atnd.org/events/9223)
     * [午後の部](http://atnd.org/events/9806)
     * [懇親会](http://atnd.org/events/10042)
+
+## 新着情報
+
+<ul class="posts">
+  {% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
