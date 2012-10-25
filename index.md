@@ -4,6 +4,8 @@ title: Japan.R
 ---
 {% include JB/setup %}
 
+<img src="./images/logo.jpg">
+
 ## Japan.R とは
 日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。
 
