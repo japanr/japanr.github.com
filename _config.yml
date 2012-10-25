@@ -80,7 +80,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : japanr
     livefyre :
       site_id : 123
     intensedebate :
@@ -98,7 +98,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-35862735-1'
     getclicky :
       site_id :
     mixpanel :
