@@ -28,7 +28,7 @@ description:
   <tr><td>15:00 - 15:15</td><td>休憩</td></tr>
   <tr><td>15:15 - 16:15</td><td><a href="/pages/2012/panel.html">パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</a></td></tr>
   <tr><td>16:15 - 16:30</td><td>休憩</td></tr>
-  <tr><td>16:30 - 17:30</td><td>LT 大会</td></tr>
+  <tr><td>16:30 - 17:30</td><td><a href="/pages/2012/lt.html">LT 大会</a></td></tr>
 </table>
 
 ## 参加登録について
