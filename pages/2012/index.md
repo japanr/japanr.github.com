@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 第3回Japan.R
+title: 第3回 Japan.R
 description:
 ---
 {% include JB/setup %}
 
-第3回Japan.Rを2012年12月1日（土）に開催します。
+第3回 Japan.R を2012年12月1日（土）に開催します。
 
 今年も午前の部と午後の部に分けて開催します。午前の部で R 初心者向けのワークショップ、午後の部ではセミナーと LT 大会です。
 
@@ -21,14 +21,14 @@ description:
 ## タイムテーブル
 
 <table class="table table-bordered table-striped">
-  <tr><td>10:00～12:30</td><td>はじめての「R」</td></tr>
-  <tr><td>12:30～14:00</td><td>休憩</td></tr>
-  <tr><td>14:00～14:30</td><td>Japan.R と CodeIQ のコラボレーション企画</td></tr>
-  <tr><td>14:30～15:00</td><td>未定</td></tr>
-  <tr><td>15:00～15:15</td><td>休憩</td></tr>
-  <tr><td>15:15〜16:15</td><td>パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</td></tr>
-  <tr><td>16:15〜16:30</td><td>休憩</td></tr>
-  <tr><td>16:30～17:30</td><td>LT 大会</td></tr>
+  <tr><td>10:00 - 12:30</td><td><a href="/pages/2012/beginner.html">はじめての「R」</a></td></tr>
+  <tr><td>12:30 - 14:00</td><td>休憩</td></tr>
+  <tr><td>14:00 - 14:30</td><td>Japan.R と CodeIQ のコラボレーション企画</td></tr>
+  <tr><td>14:30 - 15:00</td><td>未定</td></tr>
+  <tr><td>15:00 - 15:15</td><td>休憩</td></tr>
+  <tr><td>15:15 - 16:15</td><td>パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</td></tr>
+  <tr><td>16:15 - 16:30</td><td>休憩</td></tr>
+  <tr><td>16:30 - 17:30</td><td>LT 大会</td></tr>
 </table>
 
 ## 参加登録について
