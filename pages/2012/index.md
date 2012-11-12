@@ -18,26 +18,25 @@ description:
   <dd>無料</dd>
 </dl>
 
-## プログラム
+## タイムテーブル
 
-<dl class="dl-horizontal">
-  <dt>10:00～12:30</dt>
-  <dd>初心者講習（発表者：@phosphor_m）</dd>
-  <dt>12:30～14:00</dt>
-  <dd>休憩</dd>
-  <dt>14:00～14:30</dt>
-  <dd>発表1（発表者：@yokkuns）</dd>
-  <dt>14:30～15:00</dt>
-  <dd>発表2（発表者：@doradora09）</dd>
-  <dt>15:00～15:30</dt>
-  <dd>発表3（発表者：調整中）</dd>
-  <dt>15:30～16:00</dt>
-  <dd>休憩</dd>
-  <dt>16:00～17:30</dt>
-  <dd>LT大会</dd>
-</dl>
+<table class="table table-bordered table-striped">
+  <tr><td>10:00～12:30</td><td>はじめての「R」</td></tr>
+  <tr><td>12:30～14:00</td><td>休憩</td></tr>
+  <tr><td>14:00～14:30</td><td>Japan.R と CodeIQ のコラボレーション企画</td></tr>
+  <tr><td>14:30～15:00</td><td>未定</td></tr>
+  <tr><td>15:00～15:15</td><td>休憩</td></tr>
+  <tr><td>15:15〜16:15</td><td>パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</td></tr>
+  <tr><td>16:15〜16:30</td><td>休憩</td></tr>
+  <tr><td>16:30～17:30</td><td>LT 大会</td></tr>
+</table>
 
 ## 参加登録について
 参加人数を把握するために、午前の部と午後の部に分けて ATND で参加登録をして頂きます。
 
-ATND を作成するのは11月中旬を予定しています。
+* [第3回 Japan.R 午前の部](http://atnd.org/events/33933)
+* [第3回 Japan.R 午後の部](http://atnd.org/events/33934)
+
+また、終了後に懇親会も開催しますので、参加を希望される方は下記から登録をお願いいたします。
+
+* [第3回 Japan.R 懇親会](http://atnd.org/events/33935)
