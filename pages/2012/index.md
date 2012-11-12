@@ -23,10 +23,10 @@ description:
 <table class="table table-bordered table-striped">
   <tr><td>10:00 - 12:30</td><td><a href="/pages/2012/beginner.html">はじめての「R」</a></td></tr>
   <tr><td>12:30 - 14:00</td><td>休憩</td></tr>
-  <tr><td>14:00 - 14:30</td><td>Japan.R と CodeIQ のコラボレーション企画</td></tr>
+  <tr><td>14:00 - 14:30</td><td><a href="/pages/2012/codeiq.html">CodeIQ のコラボレーション企画</a></td></tr>
   <tr><td>14:30 - 15:00</td><td>未定</td></tr>
   <tr><td>15:00 - 15:15</td><td>休憩</td></tr>
-  <tr><td>15:15 - 16:15</td><td>パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</td></tr>
+  <tr><td>15:15 - 16:15</td><td><a href="/pages/2012/panel.html">パネルディスカッション「実ビジネスにおけるRとの上手な付き合い方」</a></td></tr>
   <tr><td>16:15 - 16:30</td><td>休憩</td></tr>
   <tr><td>16:30 - 17:30</td><td>LT 大会</td></tr>
 </table>
