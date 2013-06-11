@@ -10,7 +10,9 @@ title: Japan.R
 日本各地で統計処理ソフトウェアである R に関する勉強会が行われています。
 
 * [Tokyo.R](http://groups.google.co.jp/group/r-study-tokyo)
+* [Tokyo.R 女子部](http://atnd.org/events/40519)
 * [Tsukuba.R](http://wiki.livedoor.jp/syou6162/)
+* [Wako.R](http://atnd.org/events/39314)
 * [Nagoya.R](http://corpus-study.info/nagoyar/)
 * [Osaka.R](https://sites.google.com/site/osakarwiki/)
 * [Shiga.R](http://atnd.org/events/5939)
